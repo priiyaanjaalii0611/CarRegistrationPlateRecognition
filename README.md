@@ -14,4 +14,5 @@ Using Tensorflow and computer vision the project detects registration plate in a
 
 # DEMO OF OCR READING NUMBER PLATE
 
+![result ocr](https://user-images.githubusercontent.com/64598746/152315164-31223d6f-2e53-4f03-a174-257ca5f522a9.png)
 
